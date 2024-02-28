@@ -507,6 +507,10 @@ ul {
     color: var(--color-4A44);
 }
 
+input:checked.svg {
+    transform: rotate(180deg);
+}
+
 @media (max-width:1200px) {
     .burger2 {
         left: 223px;

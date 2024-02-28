@@ -9,18 +9,19 @@ accord_item.forEach(element => {
         accord_item.forEach(other => {
             if (other !== element) {
                 let para = other.querySelector(".accordian-discrpition");
+                let svg = element.querySelector(".svg");
                 para.style.display = "none";
-                svg.classList.add("rotate")
+                svg.style.transform = "unset"
             }
         });
 
         if (paragraph.style.display === "none") {
             paragraph.style.display = "block"
-            svg.classList.add("rotate")
+            svg.style.transform = "rotate(180deg)"
         }
         else {
             paragraph.style.display = "none"
-            svg.classList.remove("rotate")
+            svg.style.transform = "unset"
         }
     })
 });
