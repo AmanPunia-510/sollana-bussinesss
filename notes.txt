@@ -1,0 +1,31 @@
+                <div class="left-burger">
+                    <div class="burger1 position-relative">
+                        <img src="./assets/images/burger1.png" alt="" class="burger-1">
+                    </div>
+                    <div class="burger2 position-absolute">
+                        <img src="./assets/images/burger2.png" alt="burger2" class="burger-2 w-100">
+                    </div>
+                    <div class="burger3 position-absolute">
+                        <img src="./assets/images/burger3.png" alt="burger3" class="burger-3 w-100">
+                    </div>
+                    <div class="burger4 position-absolute">
+                        <img src="./assets/images/burger4.png" alt="burger4" class="burger-4 w-100">
+                    </div>
+                </div>
+
+                <div class="right-burger">
+                    <div class="burger5 position-absolute">
+                        <img src="./assets/images/burger5.png" alt="burger5" class="burger-5 w-100">
+                    </div>
+                    <div class="burger6 position-absolute">
+                        <img src="./assets/images/burger6.png" alt="burger5" class="burger-6 w-100">
+                    </div>
+                    <div class="burger7 position-absolute">
+                        <img src="./assets/images/burger7.png" alt="burger5" class="burger-7 w-100">
+                    </div>
+                    <div class="burger8 position-absolute">
+                        <img src="./assets/images/burger8.png" alt="burger5" class="burger-8 w-100">
+                    </div>
+                </div>
+
+
