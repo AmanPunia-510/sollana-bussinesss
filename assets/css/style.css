@@ -199,7 +199,7 @@ ul {
 }
 
 .section2 {
-    height: 85vh;
+    height: 75vh;
 }
 
 .burger1 {
@@ -592,5 +592,9 @@ ul {
 
     .mb-24 {
         margin-bottom: 24px;
+    }
+
+    .section2 {
+        height: 38vh;
     }
 }
