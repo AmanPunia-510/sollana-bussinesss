@@ -36,6 +36,7 @@
     --bg-yellow-color: #F6E300;
     --red-color: #F4241E;
     --section3-color: #FFF03F;
+    --color-4A44: #4A4400;
 }
 
 /* text decoration classes */
@@ -506,12 +507,7 @@ ul {
 .copywrite {
     margin-top: 52px;
     padding-bottom: 44px;
-    font-family: Poppins;
-    font-size: 18px;
-    font-weight: 400;
-    line-height: 32px;
-    color: #4A4400;
-    text-align: center;
+    color: var(--color-4A44);
 }
 
 @media (max-width:1200px) {
