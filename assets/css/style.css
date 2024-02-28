@@ -163,7 +163,6 @@
     font-weight: var(--font-weight-600);
     line-height: var(--line-height-27);
     color: var(--red-color);
-    border-bottom: 2px solid var(--red-color);
 }
 
 .gap-32-md {
