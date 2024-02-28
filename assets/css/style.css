@@ -528,6 +528,10 @@ ul {
     .solana-open {
         width: 76%;
     }
+
+    .mb-24 {
+        margin-bottom: 24px;
+    }
 }
 
 @media (max-width: 768px) {
@@ -575,10 +579,18 @@ ul {
     .solana-open-box {
         top: 15%;
     }
+
+    .mb-24 {
+        margin-bottom: 24px;
+    }
 }
 
 @media (max-width: 576px) {
     .navbar-items {
         display: none !important;
+    }
+
+    .mb-24 {
+        margin-bottom: 24px;
     }
 }
