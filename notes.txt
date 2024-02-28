@@ -29,3 +29,5 @@
                 </div>
 
 
+align-items-center gap-32-md d-sm-none d-xl-flex
+

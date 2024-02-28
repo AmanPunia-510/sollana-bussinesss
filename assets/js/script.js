@@ -24,3 +24,13 @@ accord_item.forEach(element => {
         }
     })
 });
+
+
+// navbar
+
+let menubar = document.querySelector(".menubar");
+let navbar_items = document.querySelector(".navbar-items");
+
+menubar.addEventListener("click", () => {
+    navbar_items.classList.toggle("show");
+})
